@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.SqlInjectionExample", "ZR.CodingExample.SercureCoding.SqlInjectionExample\ZR.CodingExample.SecureCoding.SqlInjectionExample.csproj", "{E1FB9D83-F161-46DB-925A-1991E82B697E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.HttpsExample", "ZR.CodingExample.SercureCoding.HttpsExample\ZR.CodingExample.SecureCoding.HttpsExample.csproj", "{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.Functions", "ZR.CodingExamples.SecureCodeing.Functions\ZR.CodingExample.SecureCoding.Functions.csproj", "{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.TestConsoleApp", "ZR.CodingExample.SecureCoding.TestConsoleApp\ZR.CodingExample.SecureCoding.TestConsoleApp.csproj", "{1030C46A-BAA1-4672-967B-18BB18393FF8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB} = {207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.Services", "ZR.CodingExample.SecureCoding.Services\ZR.CodingExample.SecureCoding.Services.csproj", "{28819A2F-5D30-4F13-88B0-AA18548321DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207A0DAF-6FE6-4E8D-A2B1-F1A597B811CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1030C46A-BAA1-4672-967B-18BB18393FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030C46A-BAA1-4672-967B-18BB18393FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030C46A-BAA1-4672-967B-18BB18393FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030C46A-BAA1-4672-967B-18BB18393FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28819A2F-5D30-4F13-88B0-AA18548321DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28819A2F-5D30-4F13-88B0-AA18548321DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28819A2F-5D30-4F13-88B0-AA18548321DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28819A2F-5D30-4F13-88B0-AA18548321DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B279E91E-797A-421A-900F-EDA640AE01F5}
+	EndGlobalSection
+EndGlobal

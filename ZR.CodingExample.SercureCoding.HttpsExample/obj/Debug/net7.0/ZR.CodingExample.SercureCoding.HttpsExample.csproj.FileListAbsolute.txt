@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\bin\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.exe
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\bin\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.deps.json
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\bin\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\bin\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\bin\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.pdb
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\refint\ZR.CodingExample.SercureCoding.HttpsExample.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.pdb
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ZR.CodingExample.SercureCoding.HttpsExample.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SercureCoding.HttpsExample\obj\Debug\net7.0\ref\ZR.CodingExample.SercureCoding.HttpsExample.dll

@@ -1,0 +1,5 @@
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SecureCoding.Services\obj\Debug\net7.0\ZR.CodingExample.SecureCoding.Services.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SecureCoding.Services\obj\Debug\net7.0\ZR.CodingExample.SecureCoding.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SecureCoding.Services\obj\Debug\net7.0\ZR.CodingExample.SecureCoding.Services.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SecureCoding.Services\obj\Debug\net7.0\ZR.CodingExample.SecureCoding.Services.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodingExample.SecureCoding.Services\obj\Debug\net7.0\ZR.CodingExample.SecureCoding.Services.csproj.CoreCompileInputs.cache

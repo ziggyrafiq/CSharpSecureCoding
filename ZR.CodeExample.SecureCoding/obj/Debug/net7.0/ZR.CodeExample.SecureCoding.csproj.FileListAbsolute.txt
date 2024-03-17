@@ -1,0 +1,12 @@
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\bin\Debug\net7.0\ZR.CodeExample.SecureCoding.deps.json
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\bin\Debug\net7.0\ZR.CodeExample.SecureCoding.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\bin\Debug\net7.0\ZR.CodeExample.SecureCoding.pdb
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\refint\ZR.CodeExample.SecureCoding.dll
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ZR.CodeExample.SecureCoding.pdb
+E:\GitHub\Articles-Posts\C#\Importance of Secure Coding in C#\ZR.CodeExample.SecureCoding\ZR.CodeExample.SecureCoding\obj\Debug\net7.0\ref\ZR.CodeExample.SecureCoding.dll
